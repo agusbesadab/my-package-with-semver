@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`a2fd41a`](https://github.com/agusbesadab/my-package-with-semver/commit/a2fd41a44da8d916bcb5341d7cff1f69997cb462))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
