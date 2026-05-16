@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`e0c7370`](https://github.com/agusbesadab/my-package-with-semver/commit/e0c7370ba0750a65bebe2e777d48342a82f3487c))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
